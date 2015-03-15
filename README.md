@@ -7,6 +7,8 @@ Borja González León
 
 Ricardo José Ruiz Fernández
 
+Juan Bermudo Mera
+
 Luis Vázquez Castaño
 
 Javier Salvador González
